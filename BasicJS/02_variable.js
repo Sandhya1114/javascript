@@ -9,3 +9,4 @@ num=34;
 let sum;
 console.table([name,course,acc,num,sum]);
 console.log(typeof(num));
+console.log(sum);
